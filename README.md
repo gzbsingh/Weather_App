@@ -31,11 +31,22 @@ Backend-├─ Weather_App/
    ```bash
    git clone https://github.com/gzbsingh/Weather_App.git
 
-Set up backend:Import the project into your IDE (e.g., IntelliJ IDEA)
-.Run the Spring Boot application to start the backend server.Set up frontend:Navigate to the frontend directory.Open index.html in a web browser to access the weather application.Usage:
-Enter a city name and select the forecast type (Hourly or Summary).Click the "Search" button to retrieve the weather forecast.
-Security ConfigurationThe application uses Spring Security to secure endpoints. Basic Authentication is implemented for user login.API IntegrationThe application integrates with the OpenWeatherMap API to retrieve weather forecast data based on user input.Future ImprovementsImplement user registration and user-specific forecasts.Enhance UI/UX with interactive charts and maps
-.Add caching to reduce API calls and improve performance.
+- * Set up backend:Import the project into your IDE (e.g., IntelliJ IDEA).
+- * Run the Spring Boot application to start the backend server.Set up frontend:Navigate to the frontend directory.
+
+- * Open index.html in a web browser to access the weather application.Usage:
+
+
+  - * Enter a city name and select the forecast type (Hourly or Summary).Click the "Search" button to retrieve the weather forecast.
+
+
+- * Security ConfigurationThe application uses Spring Security to secure endpoints. Basic Authentication is implemented for user login.
+
+- * API IntegrationThe application integrates with the OpenWeatherMap API to retrieve weather forecast data based on user input.
+
+- * Future ImprovementsImplement user registration and user-specific forecasts.Enhance UI/UX with interactive charts and maps
+
+
 
  ## Endpoints
 

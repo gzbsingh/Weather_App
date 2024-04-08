@@ -21,6 +21,7 @@ Attached is a very short video walkthrough of all of the features  https://drive
 - *Security*: Spring Security with jwt Authentication
 - *Other Tools*: fetch (for API requests), Bootstrap (for styling)
 - *Api use for weather data- https://openweathermap.org/forecast5#name5  ,  https://rapidapi.com/developer/dashboard
+- *Documentation-Open Api Swagger Documentation
 ## Features
 
 - *Forecast Summary*: View summarized weather forecast including date, weather state, temperature, wind, precipitation, sunrise/sunset, moonrise/moonset, and sun hours.

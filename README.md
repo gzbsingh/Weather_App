@@ -7,6 +7,10 @@ Full Stack
 Backend-├─ Weather_App/
 ├─ frontend/ -Weather_App(FrontEnd)│ 
 
+## Video Walkthrough of the project
+
+Attached is a very short video walkthrough of all of the features  https://drive.google.com/file/d/1J5OjrQA0-W4AdnyL5O1RDK8wdm5tc7jC/view?usp=sharing
+
 ## Deployed Link-https://6613313126d1151ad307caaf--glittering-panda-de2e0d.netlify.app/
 
 ## Technologies Used

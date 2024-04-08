@@ -61,4 +61,5 @@ Security ConfigurationThe application uses Spring Security to secure endpoints. 
   - username: User's username(admin).
   - password: User's password(admin).
  
-  LicenseThis project is licensed under the MIT License.
+  ### License
+   This project is licensed under the MIT License.

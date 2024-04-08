@@ -28,6 +28,14 @@ Attached is a very short video walkthrough of all of the features  https://drive
 - *User Authentication*: Secure login using Spring Security with username and password.
 
 ### username- admin  ,  password-admin
+
+## ScreenShot
+ ## Login
+   ![login](https://github.com/gzbsingh/Weather_App/assets/39863817/78da2fe7-5244-49ea-b283-604b3560db0f)
+
+ ## index file
+   ![forcast](https://github.com/gzbsingh/Weather_App/assets/39863817/063d82bb-7a01-4e4a-9da8-58c2affed36f)
+
 ## Usage
 
 1. Clone the repository:

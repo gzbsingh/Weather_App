@@ -107,10 +107,16 @@ document.addEventListener('DOMContentLoaded', () => {
             }})
                      .then(response => {
                         if(!response.ok){
+			      if(response.status==401){
+                            alert("please login first");
+                            window.location.href="login.html";
+				      }
+                      else{				
                             response.json().then(errordata=>{
                                 alert(errordata.message);
                             })
                         }
+                    }  
                         else{
                         
                         response.json()

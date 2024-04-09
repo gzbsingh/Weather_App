@@ -6,10 +6,22 @@ document.addEventListener('DOMContentLoaded', () => {
    //appending city title and creating
   const title=document.getElementById("title");
    const acesss=document.getElementById("access");
-   if(token){
+  if(token){
+    const dt=JSON.parse(atob(token.split(".")[1]));
+    const exp=dt.exp*1000;
+ 
+   
+    if(Date.now()>=exp)
+    { 
+        localStorage.removeItem("token");
+        acesss.innerText="Login";
+    }
+    else 
     acesss.innerText="Logout";
+   
    }
    else{
+
        acesss.innerText="Login"
    }
    acesss.addEventListener('click',e=>{

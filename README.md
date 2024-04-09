@@ -11,7 +11,7 @@ Backend-├─ Weather_App/
 
 Attached is a very short video walkthrough of all of the features  https://drive.google.com/file/d/1J5OjrQA0-W4AdnyL5O1RDK8wdm5tc7jC/view?usp=sharing
 
-## Deployed Link-https://6613313126d1151ad307caaf--glittering-panda-de2e0d.netlify.app/
+## Deployed Link- https://glittering-panda-de2e0d.netlify.app/
 
 ## Technologies Used
 
